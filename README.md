@@ -3,6 +3,24 @@
 https://brahimi73837.github.io/Password-Generator-Js/
 
 
+
+Technologies Used
+
+JavaScript
+
+HTML
+
+CSS
+
+Installation
+
+To run this project locally, follow these steps:
+
+1- Clone the repository: git clone https://github.com/brahimi73837/Password-Generator-Js.git
+
+2- Open the index.html file in your preferred web browser.
+
+
 **Screeshots:**
 
 
