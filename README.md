@@ -4,7 +4,7 @@ https://brahimi73837.github.io/Password-Generator-Js/
 
 
 
-Technologies Used
+**Technologies Used**
 
 JavaScript
 
@@ -12,7 +12,7 @@ HTML
 
 CSS
 
-Installation
+**Installation**
 
 To run this project locally, follow these steps:
 
